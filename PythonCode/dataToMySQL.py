@@ -8,8 +8,8 @@ sheetNames = book.sheet_names()
 conn = pymysql.connect(
         host='localhost', 
         user='root', 
-        passwd='root',  
-        db='doubanSpider',  
+        passwd='****',  # Your MySQL password
+        db='doubanSpider',
         port=3306,  
         charset='utf8'
         )
