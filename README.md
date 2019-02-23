@@ -19,6 +19,8 @@
 从下图可以看出，我们新建了一个数据库DoubanSpider，然后建立了相关的数据表  
 ![建数据库](./Pictures/createDB.png "建立一个新的数据库")  
 ![建数据表](./Pictures/createTable.png "建立相对应的数据表")  
-![查看表格](./Pictures/showTables.png "查看已建好的数据表")
+![查看表格](./Pictures/showTables.png "查看已建好的数据表")  
 在python对MySQL的操作中，需要注意的是字符集的问题，这里我们使用**UTF-8**  
-![查看数据](./Pictures/addData.png "查看已经添加好的数据")  
+![添加数据](./Pictures/addData.png "添加数据")  
+添加完成后可以直接查看是否添加正确  
+![查看数据](./Pictures/showData.png "查看已经添加好的数据")
