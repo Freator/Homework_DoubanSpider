@@ -29,4 +29,4 @@
 ![管理工具](./Pictures/viewData.png "使用界面管理工具查看MySQL数据")
 
 @Author:[Freator](https://github.com/Freator)  
-@Email:tbcong@qq.com
+@Email:bingcongtang@gmail.com
