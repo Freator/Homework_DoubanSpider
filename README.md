@@ -28,5 +28,5 @@
 使用**MySQL界面管理工具**查看数据更加清晰明了  
 ![管理工具](./Pictures/viewData.png "使用界面管理工具查看MySQL数据")
 
-@Author:[Freator](https://github.com/Freator)  
+@Author:[Freator Tang](https://github.com/Freator)  
 @Email:bingcongtang@gmail.com
